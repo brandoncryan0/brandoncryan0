@@ -1,16 +1,31 @@
-## Hi there 👋
+# Brandon Cryan
 
-<!--
-**brandoncryan0/brandoncryan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics graduate focused on software development and technical communication.
 
-Here are some ideas to get you started:
+I enjoy building projects that turn complex ideas into useful, understandable tools; from algorithm and linear algebra visualizations to mobile applications and structured technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+**Pathfinding & Maze Visualizer**  
+Interactive visualization comparing Dijkstra and A* pathfinding with weighted terrain, obstacles, and randomized Prim's maze generation.
+
+**Eigenvalue & Eigenvector Visualizer**  
+Interactive linear algebra tool connecting matrix calculations with geometric transformations.
+
+**Workout Tracker**  
+Local-first React workout tracker packaged as an Android application with Capacitor.
+
+**Tiny Bus Conversion Documentation**  
+Structured technical documentation authored with DITA XML and published as HTML5 and PDF.
+
+## Technologies
+
+`JavaScript` `React` `Vite` `Git` `GitHub` `HTML` `CSS` `SVG` `KaTeX` `DITA XML` `DITA-OT` `Capacitor`
+
+## Portfolio
+
+View my portfolio and project case studies through the `my-portfolio` repository.
+
+## Current Focus
+
+I'm interested in opportunities that combine analytical problem solving, software development, mathematics, and clear technical communication.
