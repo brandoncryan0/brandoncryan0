@@ -24,7 +24,7 @@ Structured technical documentation authored with DITA XML and published as HTML5
 
 ## Portfolio
 
-View my portfolio and project case studies through the `my-portfolio` repository.
+[View my portfolio and project case studies →](repository.my-portfolio-five-chi-d2b86u6z4a.vercel.app)
 
 ## Current Focus
 
